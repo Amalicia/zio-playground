@@ -1,1 +1,0 @@
-scalac -bootclasspath /Users/amalicia/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar -classpath /Users/amalicia/repositories/zio-playground/target/scala-2.13/classes /Users/amalicia/repositories/zio-playground/src/main/scala/example/Hello.scala
